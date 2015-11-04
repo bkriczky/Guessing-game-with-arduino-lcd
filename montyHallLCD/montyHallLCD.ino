@@ -1,5 +1,10 @@
 #include <LiquidCrystal.h>
 // initialize the library with the numbers of the interface pins
+
+
+
+
+
 LiquidCrystal lcd(4, 6, 10, 11, 12, 13);
 const int buttonPin2 = 2; // the number of the pushbutton pin
 const int buttonPin3 = 3; // the number of the pushbutton pin
