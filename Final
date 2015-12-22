@@ -24,6 +24,7 @@ inputString.trim();
 Serial.println(inputString);
 //toneNumber = inputString.toInt();
 
+
 if(inputString.equals("start")){
   
   int melody[] = {
